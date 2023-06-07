@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fisayo @fisayoogunsanwo
-- 👀 I’m interested in Full Stack Web development
-- 🌱 I’m currently learning SQL and Node JS
+
+<h1> Hey, I'm Fisayo 👋🏽 </h1>
+
+Frontend Web developer currently learning how to build mobile applications with Dart and Flutter.
 
 
 <!---
